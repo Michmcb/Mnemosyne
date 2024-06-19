@@ -1,0 +1,9 @@
+{
+  "profiles": {
+   "Mnemosyne": {
+      "commandName": "Project",
+      "commandLineArgs": "backup --read-files-from backup-files.txt --repository Z:/backup/m --fat-file-times --delete-files",
+      "workingDirectory": "D:/m"
+   }
+  }
+}
